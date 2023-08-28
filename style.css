@@ -33,7 +33,7 @@ td {
 
 .calendars{
     display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
 }
 
 .daysOfWeek{
@@ -81,7 +81,7 @@ td {
 
 .sample{
     display: flex;
-    justify-content: center;
+    /*justify-content: center;*/
     margin: 15px;
 }
 
