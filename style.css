@@ -85,6 +85,7 @@ td {
     /*justify-content: center;*/
     margin: 15px;
     white-space: nowrap;
+    overflow-x: auto;
 }
 
 .sample-day{
