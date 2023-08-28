@@ -84,6 +84,7 @@ td {
     display: flex;
     /*justify-content: center;*/
     margin: 15px;
+    white-space: nowrap;
 }
 
 .sample-day{
