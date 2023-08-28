@@ -1,5 +1,6 @@
 #calendar {
     flex-wrap: wrap;
+    overflow: auto;
 }
 
 section {
